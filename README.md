@@ -1,2 +1,2 @@
 # python-learning
- Learning Python step by step
+ Learning Python step by step.
